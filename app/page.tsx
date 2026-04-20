@@ -36,9 +36,7 @@ export default function LinkChecker() {
             <span className="text-xl">📤</span> 
             <h1>Live Manual Ingestion</h1>
           </div>
-          <button className="px-4 py-1.5 border border-gray-300 rounded-md text-sm font-medium text-gray-600 hover:bg-gray-50">
-            ← Go Back
-          </button>
+          
         </div>
 
         <p className="text-gray-600 mb-6 text-sm">
